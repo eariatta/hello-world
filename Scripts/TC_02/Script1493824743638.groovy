@@ -23,15 +23,13 @@ Mobile.startApplication('C:\\Users\\eariatta\\Desktop\\Enrico\\apkFiles\\it.unie
 
 Mobile.verifyElementVisible(findTestObject('UniEuroFirstPages/waitCircle_page_1'), 50)
 
-Mobile.delay(50)
+Mobile.delay(70)
 
-Mobile.verifyElementVisible(findTestObject('UniEuroFirstPages/HomePage_Carrello'), 500)
+Mobile.verifyElementVisible(findTestObject('UniEuroFirstPages/HomePage_Carrello'), 5)
 
-Mobile.verifyElementVisible(findTestObject('UniEuroFirstPages/HomePage_Home'), 500)
+Mobile.verifyElementVisible(findTestObject('UniEuroFirstPages/HomePage_Home'), 5)
 
-Mobile.verifyElementVisible(findTestObject('UniEuroFirstPages/HomePage_IO'), 500)
-
-Mobile.verifyElementVisible(findTestObject('UniEuroFirstPages/HomePage_Unieuroimage1'), 500)
+Mobile.verifyElementVisible(findTestObject('UniEuroFirstPages/HomePage_IO'), 5)
 
 Mobile.tap(findTestObject('UniEuroFirstPages/HomePage_Searchbox_TXT'), 10)
 
