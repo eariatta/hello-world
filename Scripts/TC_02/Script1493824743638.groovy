@@ -23,7 +23,7 @@ Mobile.startApplication('C:\\Users\\eariatta\\Desktop\\Enrico\\apkFiles\\it.unie
 
 Mobile.verifyElementVisible(findTestObject('UniEuroFirstPages/waitCircle_page_1'), 50)
 
-Mobile.delay(60)
+Mobile.delay(50)
 
 Mobile.verifyElementVisible(findTestObject('UniEuroFirstPages/HomePage_Carrello'), 500)
 
