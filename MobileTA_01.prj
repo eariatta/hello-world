@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description>Mobile project Test 1</description>
+   <name>MobileTA_01</name>
+   <tag></tag>
+   <UUID>aaba05da-4db0-48b3-ac85-aaeb5008d2e5</UUID>
+   <pageLoadTimeout>30</pageLoadTimeout>
+</Project>
